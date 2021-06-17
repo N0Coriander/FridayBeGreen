@@ -1,5 +1,5 @@
 # FridayBeGreen
-场景：对于安全分析工程师来说，每周五都需要填写部门周报数据统计表，需要把自己这周写过的分析报告，一个个转换成周报中要填写的数据。</br>
+场景：对于安全分析工程师来说，每周五都必须填写部门《周报数据统计表》，需要把自己这周产出的分析报告，一个个转换成周报中要填写的数据。如下为本次脚本应对的数据格式：</br>
 ![image](https://user-images.githubusercontent.com/53027649/122345680-b3891f80-cf7a-11eb-9ca1-bf0e3ec3a096.png)
 ![image](https://user-images.githubusercontent.com/53027649/122346051-209cb500-cf7b-11eb-9d2a-f84a2fdb17fb.png)
 </br>
